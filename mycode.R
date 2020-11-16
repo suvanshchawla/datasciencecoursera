@@ -1,5 +1,6 @@
 myfunction <- function(){
-  x <- rnorm(100) mean(x) 
+  x <- rnorm(100) 
+  mean(x) 
 }
 
 second <- function(x){ 
